@@ -1,7 +1,7 @@
 # RecordAnalyzer
 Interface for basic spectral analysis.
 
-Compare two record by computing fast fourier transform, power spectral density and Welch's spectrum. 
+Compare two record by computing fast fourier transform, power spectral density and Welch's method. 
 
 Track the change in frequency corresponding to maximum amplitude by analyzing small data chunks.
 
