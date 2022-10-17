@@ -41,5 +41,5 @@ Small Dataset Properties
 
 ----------------------------------------------------------------------------------
 
-<img src="figure/example_figure.png" width="960" height="640">
-<img src="figure/guralp-adxl355-4peak.jpg" width="960" height="640">
+<img src="figure/example_figure.png" width="960" height="540">
+<img src="figure/guralp-adxl355-4peak.jpg" width="960" height="540">
